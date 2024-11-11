@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @T-Fathima
-- 👀 I’m interested in Full-stack web development.
+- 👋 Hello, I’m @T-Fathima
+- 👀 I’m interested in Full-stack Web development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on open-source projects, innovative web applications, and any technology-driven initiatives.
 - 📫 How to reach me: You can email me at tatheerfathima2004@gmail.com or connect with me on LinkedIn.
