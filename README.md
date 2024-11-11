@@ -2,10 +2,6 @@
 <h3 align="center">A Pre-Final Year Undergrad
 </h3>
 
-
-
-
-
 [![GitHub followers](https://img.shields.io/github/followers/T-Fathima?label=Follow&style=social)](https://github.com/T-Fathima/)
 ![Profile Views](https://komarev.com/ghpvc/?username=SrijaVuppala295&color=blue)
 
@@ -49,7 +45,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-<br> <br>
+
 
 ##  GitHub Stats:
 <table width="100%" align="center">
@@ -66,11 +62,6 @@
 </tr>
 </table>
 
-<br>
-<br>
-
-
-
 
 <p align="center">
   <b>Thank You For the Visit!🌟<b>
@@ -82,7 +73,3 @@
 </p>
 
 
-<!---
-SrijaVuppala295/SrijaVuppala295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
