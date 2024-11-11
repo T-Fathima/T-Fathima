@@ -8,7 +8,6 @@
 <div align="left">
 
 - 🌱 Just your average third-year student trying to juggle assignments, projects, and maybe some sleep—if there's time!
-- 💞️ I’m looking to collaborate on open-source projects, innovative web applications, and any technology-driven initiatives.
 - 📫 How to reach me: You can email me at tatheerfathima2004@gmail.com or connect with me on <a href="https://linkedin.com/in/tatheer-fathima-5ba16b275" target="blank">
     LinkedIn
   </a>
