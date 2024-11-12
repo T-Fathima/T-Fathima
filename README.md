@@ -11,8 +11,7 @@
 - 📫 How to reach me: You can email me at tatheerfathima2004@gmail.com or connect with me on <a href="https://linkedin.com/in/tatheer-fathima-5ba16b275" target="blank">
     LinkedIn
   </a>
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I once tried to fix a bug and ended up creating three more.
+- 😄 Fun fact: I once tried to fix a bug and ended up creating three more.
 
 </div>
 
