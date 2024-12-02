@@ -49,7 +49,7 @@
 <table width="100%" align="center">
 <tr>
   <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsharma72&show_icons=true&locale=en&layout=compact" alt="ayushsharma72" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=T-Fathima&show_icons=true&locale=en&layout=compact" alt="ayushsharma72" />
   </td>
 <td>
   <img width="420m" src="https://github-readme-stats.vercel.app/api?username=T-Fathima&&show_icons=true&theme=radical" alt="GitHub Stats"/>
