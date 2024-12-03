@@ -22,7 +22,7 @@
 |------------------------------|----------------------------|-----------------------------|
 | ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java)  | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)  | |
 |                              |                            |                             |
-| *Database Technologies*         | *Frameworks*                | *Developer Tools*             |
+| *Database Technologies*      | *Frameworks*                | *Developer Tools*            |
 | ![MySQL](https://skillicons.dev/icons?i=mysql)  | ![React](https://skillicons.dev/icons?i=react)  | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
 ## Holophin Badges - Hactoberfest 2024 
 [![An image of @Tatheer Fathima's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@tfathima#)](https://holopin.io/@tfathima#)
@@ -41,6 +41,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
+
 ##  GitHub Stats:
 <table width="100%" align="center">
 <tr>
