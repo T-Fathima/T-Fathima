@@ -3,7 +3,7 @@
 </h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/T-Fathima?label=Follow&style=social)](https://github.com/T-Fathima/)
-![Profile Views](https://komarev.com/ghpvc/?username=SrijaVuppala295&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=T-Fathima&color=blue)
 
 <div align="left">
 
@@ -45,7 +45,7 @@
 <table width="100%" align="center">
 <tr>
   <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsharma72&show_icons=true&locale=en&layout=compact" alt="ayushsharma72" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=T-Fathima&show_icons=true&locale=en&layout=compact" alt="ayushsharma72" />
   </td>
 <td>
   <img width="420m" src="https://github-readme-stats.vercel.app/api?username=T-Fathima&&show_icons=true&theme=radical" alt="GitHub Stats"/>
