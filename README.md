@@ -2,8 +2,6 @@
 <h3 align="center">A Pre-Final Year Undergrad
 </h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/T-Fathima?label=Follow&style=social)](https://github.com/T-Fathima/)
-![Profile Views](https://komarev.com/ghpvc/?username=T-Fathima&color=blue)
 
 <div align="left">
 
